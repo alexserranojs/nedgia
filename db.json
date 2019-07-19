@@ -52,5 +52,37 @@
     "nombre_via": "TORTOSA",
     "poblacion": "TIBIDABO",
     "tipo_via": "CARRER"
-  }] 
+  }],
+  "list_fincas":[
+    {
+    "ANNEX": null,
+    "BLDNG": "143780329",
+    "STREETNUM": "2"
+    },
+    {
+    "ANNEX": null,
+    "BLDNG": "40000079103",
+    "STREETNUM": "0022"
+    },
+    {
+    "ANNEX": null,
+    "BLDNG": "40000079104",
+    "STREETNUM": "0042"
+    },
+    {
+    "ANNEX": null,
+    "BLDNG": "40000079105",
+    "STREETNUM": "0046"
+    },
+    {
+    "ANNEX": null,
+    "BLDNG": "40000079106",
+    "STREETNUM": "0047"
+    },
+    {
+    "ANNEX": null,
+    "BLDNG": "40000079107",
+    "STREETNUM": "0051"
+    }
+] 
 }
