@@ -1,8 +1,8 @@
 {
-  "posts": [
+  "list_provincias": [
     {
-      "id": 1,
-      "title": "hello"
+      "id_provincia": 1,
+      "provincia": "Guillem"
     }
   ],
   "profile": {
