@@ -232,6 +232,69 @@
     "nombre_via": "MAR",
     "poblacion": "BARCELONA",
     "tipo_via": "RAMBLA"
-  }]
+  },
+  {
+    "id_via": 66055,
+    "nombre_via": "TORTOSA",
+    "poblacion": "TIBIDABO",
+    "tipo_via": "CARRER"
+  }],
+  "list_fincas":[
+  {
+  "ANNEX": null,
+  "BLDNG": "143780329",
+  "STREETNUM": "2"
+  },
+  {
+  "ANNEX": null,
+  "BLDNG": "40000079103",
+  "STREETNUM": "0022"
+  },
+  {
+  "ANNEX": null,
+  "BLDNG": "40000079104",
+  "STREETNUM": "0042"
+  },
+  {
+  "ANNEX": null,
+  "BLDNG": "40000079105",
+  "STREETNUM": "0046"
+  },
+  {
+  "ANNEX": null,
+  "BLDNG": "40000079106",
+  "STREETNUM": "0047"
+  },
+  {
+  "ANNEX": null,
+  "BLDNG": "40000079107",
+  "STREETNUM": "0051"
+  }
+  ],
+  "info_finca":[
+  {
+    "BLDNGCANON": null,
+    "BLDNGFOUND": "S",
+    "BLDNGGAS": "N",
+    "BLDNGTYPE": "Unifamiliar",
+    "ERRDESC": null,
+    "EXEC": "OK",
+    "IDERROR": null,
+    "MARKET": "PYME",
+    "MSGFN": "FINC1",
+    "NETDIST": "21.258" 
+   }],
+  "info_inmuebles":[
+{
+"BLOCK": null,
+"CESSDATE": null,
+"DOOR": "LOCAL",
+"FLOOR": "BJ",
+"ISPOTENTIAL": "S",
+"MARKET": "PYME",
+"RSTDIRECTION": null,
+"STAIR": null
+}
+]   
 }
 
