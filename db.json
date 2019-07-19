@@ -1,7 +1,4 @@
 {
-  "list_provincias": [ { "id_provincia": 15, "provincia": "A CORU?A" }, { "id_provincia": 1, "provincia": "ALAVA" }, { "id_provincia": 2, "provincia": "ALBACETE" }, { "id_provincia": 3, "provincia": "ALICANTE" }, { "id_provincia": 4, "provincia": "ALMERIA" }, { "id_provincia": 33, "provincia": "ASTURIES" }, { "id_provincia": 5, "provincia": "AVILA" }, { "id_provincia": 6, "provincia": "BADAJOZ" }, { "id_provincia": 7, "provincia": "BALEARES" }, { "id_provincia": 8, "provincia": "BARCELONA" }, { "id_provincia": 9, "provincia": "BURGOS" }, { "id_provincia": 10, "provincia": "CACERES" }, { "id_provincia": 11, "provincia": "CADIZ" }, { "id_provincia": 39, "provincia": "CANTABRIA" }, { "id_provincia": 12, "provincia": "CASTELLON" }, { "id_provincia": 51, "provincia": "CEUTA" }, { "id_provincia": 13, "provincia": "CIUDAD REAL" }],
-  "profile": {
-    "name": "typicode"
-  }
+  "list_provincias": [ { "id_provincia": 15, "provincia": "A CORU?A" }, { "id_provincia": 1, "provincia": "ALAVA" }, { "id_provincia": 2, "provincia": "ALBACETE" }, { "id_provincia": 3, "provincia": "ALICANTE" }, { "id_provincia": 4, "provincia": "ALMERIA" }, { "id_provincia": 33, "provincia": "ASTURIES" }, { "id_provincia": 5, "provincia": "AVILA" }, { "id_provincia": 6, "provincia": "BADAJOZ" }, { "id_provincia": 7, "provincia": "BALEARES" }, { "id_provincia": 8, "provincia": "BARCELONA" }],
 }
 
