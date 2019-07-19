@@ -84,5 +84,19 @@
     "BLDNG": "40000079107",
     "STREETNUM": "0051"
     }
-] 
+],
+ "info_fincas":[
+   {
+  "BLDNGCANON": null,
+  "BLDNGFOUND": "S",
+  "BLDNGGAS": "N",
+  "BLDNGTYPE": "Unifamiliar",
+  "ERRDESC": null,
+  "EXEC": "OK",
+  "IDERROR": null,
+  "MARKET": "PYME",
+  "MSGFN": "FINC1",
+  "NETDIST": "21.258" 
+  }
+ ]
 }
